@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "next": "^14.1.4",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.4"
+  },
+  "name": "decentralized-with-lumentis",
+  "description": "This Content is of a class where the instructor is teaching concepts mentioned in the transcript",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Blockchain",
+    "Smart Contracts",
+    "Decentralized Applications (DApps)",
+    "Solidity",
+    "Ethereum",
+    "Consensus Mechanisms",
+    "Decentralized Finance (DeFi)",
+    "Automated Market Makers (AMMs)",
+    "Liquidity Pools",
+    "Non-Fungible Tokens (NFTs)"
+  ]
+}
